@@ -2,7 +2,7 @@
 
 <p align="center" >
    <samp>
-    Tecnólogo em Gestão financeira pela universidade Toledo, atualmente cursando Análise e Desenvolvimento de Sistema na mesma instituição.
+    Tecnólogo em Gestão financeira pela universidade Toledo, atualmente cursando Análise e Desenvolvimento de Sistema na Unoeste - FIPP Faculdade de Informatica de Presidente Prudente.
    </samp>
 
    <samp>
