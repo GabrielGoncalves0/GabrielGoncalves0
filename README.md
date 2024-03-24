@@ -2,15 +2,15 @@
 
 <p align="center" >
    <samp>
-    Tecnólogo em Gestão financeira pela universidade Toledo, atualmente cursando Análise e Desenvolvimento de Sistema na Unoeste - FIPP Faculdade de Informatica de Presidente Prudente.
+    Gabriel Gonçalves é um estudante de Análise e Desenvolvimento de Sistemas na Unoeste - FIPP - Faculdade de Tecnologia de Presidente Prudente, atualmente no 3º semestre do curso com previsão de conclusão para o segundo       semestre de 2025. 
    </samp>
 
    <samp>
-   Dedico meu tempo livre para estudar cursos de tecnologia para aumentar cada vez mais meu conhecimento e ingressar nessa tão desejada área.
+   Apaixonado por tecnologia e programação, ele construiu uma base em linguagens de programação como C, Node.js, JavaScript e MySQL ao longo de sua jornada acadêmica; está em busca de oportunidades de estágio que lhe      permitam a aplicação de seus conhecimentos, destacando-se como um potencial estagiário.
    </samp>
 
    <samp>
-    Procuro crescimento profissional na área de programação, para aprender cada vez mais e me tornar um profissional qualificado no mercado de trabalho.
+    Nos momentos livres, Gabriel dedica-se a projetos pessoais, aprimorando suas habilidades em lógica de programação.
    </samp>
 </p>
 
@@ -26,8 +26,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
