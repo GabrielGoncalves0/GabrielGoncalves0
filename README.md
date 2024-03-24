@@ -10,7 +10,7 @@
    </samp>
 
    <samp>
-    Nos momentos livres, Gabriel dedica-se a projetos pessoais, aprimorando suas habilidades em lógica de programação.
+    Nos momentos livres, Gabriel dedica-se a projetos pessoais, aprimorando suas habilidades em lógica de programação e Desenvolvimento WEB.
    </samp>
 </p>
 
