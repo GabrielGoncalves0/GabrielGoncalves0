@@ -6,7 +6,7 @@
    </samp>
 
    <samp>
-   Apaixonado por tecnologia e programação, ele construiu uma base em linguagens de programação como C, Node.js, JavaScript e MySQL ao longo de sua jornada acadêmica; está em busca de oportunidades de estágio que lhe      permitam a aplicação de seus conhecimentos, destacando-se como um potencial estagiário.
+   Apaixonado por tecnologia e programação, ele construiu uma base em linguagens de programação como C, Node.js, JavaScript e MySQL ao longo de sua jornada acadêmica; está em busca de oportunidades de estágio, trainee ou junior, que lhe      permitam a aplicação de seus conhecimentos.
    </samp>
 
    <samp>
