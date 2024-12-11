@@ -22,7 +22,7 @@
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=GabrielGoncalves0&theme=radical)](https://github.com/GabrielGoncalves0/GabrielGoncalves0)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGoncalves0&hide=html&layout=compact&theme=radical)]
+![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGoncalves0&hide=html&layout=compact&theme=radical)
 
 ## Minhas Skills
 
